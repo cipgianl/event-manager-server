@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazorwasm.Client", "blazor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazorwasm.Shared", "blazorwasm\Shared\blazorwasm.Shared.csproj", "{30E8F020-121B-4C0B-ABF2-B1C6E1E15304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazordata", "blazordata\blazordata.csproj", "{C2C90503-4BE2-4244-9322-8F75130854CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{30E8F020-121B-4C0B-ABF2-B1C6E1E15304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E8F020-121B-4C0B-ABF2-B1C6E1E15304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E8F020-121B-4C0B-ABF2-B1C6E1E15304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C90503-4BE2-4244-9322-8F75130854CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C90503-4BE2-4244-9322-8F75130854CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C90503-4BE2-4244-9322-8F75130854CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C90503-4BE2-4244-9322-8F75130854CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
